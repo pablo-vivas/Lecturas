@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  13 JAN 2020 23:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  14 JAN 2020 21:07
 entering extended mode
 **./Resumen.tex
 (Resumen.tex
@@ -697,6 +697,15 @@ Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@dima=\skip52
 \bigstrutjot=\dimen115
 )
+("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/framed\frame
+d.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip53
+\fb@frw=\dimen116
+\fb@frh=\dimen117
+\FrameRule=\dimen118
+\FrameSep=\dimen119
+)
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
 metry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
@@ -717,14 +726,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count109
 \Gm@cntv=\count110
 \c@Gm@tempcnt=\count111
-\Gm@bindingoffset=\dimen116
-\Gm@wd@mp=\dimen117
-\Gm@odd@mp=\dimen118
-\Gm@even@mp=\dimen119
-\Gm@layoutwidth=\dimen120
-\Gm@layoutheight=\dimen121
-\Gm@layouthoffset=\dimen122
-\Gm@layoutvoffset=\dimen123
+\Gm@bindingoffset=\dimen120
+\Gm@wd@mp=\dimen121
+\Gm@odd@mp=\dimen122
+\Gm@even@mp=\dimen123
+\Gm@layoutwidth=\dimen124
+\Gm@layoutheight=\dimen125
+\Gm@layouthoffset=\dimen126
+\Gm@layoutvoffset=\dimen127
 \Gm@dimlist=\toks23
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
@@ -734,76 +743,76 @@ LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `Resumen.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 20.
+LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 21.
 LaTeX Font Info:    Trying to load font information for OML+jkp on input line 2
-0.
+1.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\omlj
 kp.fd"
 File: omljkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 21.
 LaTeX Font Info:    Trying to load font information for OMS+jkp on input line 2
-0.
+1.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\omsj
 kp.fd"
 File: omsjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 21.
 LaTeX Font Info:    Trying to load font information for OMX+jkp on input line 2
-0.
+1.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\omxj
 kp.fd"
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 21.
 LaTeX Font Info:    Trying to load font information for U+jkpexa on input line 
-20.
+21.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujkp
 exa.fd"
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-0.
+1.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.
 fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 2
-0.
+1.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ot1j
 kp.fd"
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
 )
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\
 supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
-\scratchdimen=\dimen124
+\scratchdimen=\dimen128
 \scratchbox=\box29
 \nofMPsegments=\count113
 \nofMParguments=\count114
 \everyMPshowfont=\toks24
 \MPscratchCnt=\count115
-\MPscratchDim=\dimen125
+\MPscratchDim=\dimen129
 \MPnumerator=\count116
 \makeMPintoPDFobject=\count117
 \everyMPtoPDFconversion=\toks25
@@ -904,55 +913,56 @@ LaTeX Info: Redefining \BHBI on input line 139.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for U+jkpsya on input line 
-21.
+22.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujkp
 sya.fd"
 File: ujkpsya.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsyb on input line 
-21.
+22.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujkp
 syb.fd"
 File: ujkpsyb.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpmia on input line 
-21.
+22.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujkp
 mia.fd"
 File: ujkpmia.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 
-21.
+22.
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujkp
 syc.fd"
 File: ujkpsyc.fd 2006/08/15 v1.0
 ) [1
 
-{C:/Users/Pablo Vivas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (Resu
-men.aux
+{C:/Users/Pablo Vivas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] (
+Resumen.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 6193 strings out of 492452
- 83859 string characters out of 3117260
- 150623 words of memory out of 3000000
- 10433 multiletter control sequences out of 15000+200000
- 23576 words of font info for 57 fonts, out of 3000000 for 9000
+ 6257 strings out of 492452
+ 84751 string characters out of 3117260
+ 155037 words of memory out of 3000000
+ 10486 multiletter control sequences out of 15000+200000
+ 28893 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,6n,35p,276b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,6n,35p,435b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base
 /8r.enc}<C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/kpfonts/jkpbn8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb>
-Output written on Resumen.pdf (1 page, 33455 bytes).
+lic/kpfonts/jkpbit8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Users/Pablo Vivas
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb>
+Output written on Resumen.pdf (2 pages, 51059 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

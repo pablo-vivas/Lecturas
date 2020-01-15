@@ -11,6 +11,7 @@
 \usepackage{apacite}
 \usepackage{multirow}
 \usepackage{graphicx}
+\usepackage{framed}
 \setlength{\parindent}{0em}
 \usepackage[left=3cm,right=3cm,top=2cm,bottom=2cm]{geometry}
 \author{Gareth James, Daniela Witten, Trevor Hastie \& Robert Tibshirani}
@@ -20,6 +21,28 @@
 \begin{document}
 \maketitle
 \section{Introduction}
+Statistical learning refers to a vast set of tools for \textbf{understanding data}. These tools can be classified as:
+\begin{itemize}
+\item supervised 
+\item unsupervised
+\end{itemize}
+Broadly speaking, supervised statistical learning involves building a statistical model for predicting, or estimating, an output based on one or more inputs. Problems of this nature occur in fields as diverse as business, medicine, astrophysics, and public policy. With unsupervised statistical learning, there are inputs but no supervising output; nevertheless we can learn relationships and structure from such data.
+The datasets used in this books are:
+\begin{itemize}
+\item Wage 
+\item Stock Market
+\item Gene Expression
+\end{itemize}
+
+\textbf{\textit{Some history}}
+\begin{framed}
+Legendre and Gauss published papers on the method of \textit{least squares}.\\
+Fisher proposed \textit{linear discriminant analysis} in 1936.\\
+In the 1940s, various authors put forth an alternative approach, \textit{logistic regression}.\\
+In the early 1970s, Nelder and Wedderburn coined the term \textit{generalized linear models} for an entire class of statistical learning methods that include both linear and logistic regression as special cases.\\ 
+In mid 1980s Breiman, Friedman, Olshen and Stone introduced \textit{classiﬁcation and regression trees}.\\
+Hastie and Tibshirani coined the term \textit{generalized additive models} in 1986 for a class of non-linear extensions to generalized linear models. 
+\end{framed}
 \section{Statistical Learning}
 \section{Linear Regression}
 \section{Classification}
