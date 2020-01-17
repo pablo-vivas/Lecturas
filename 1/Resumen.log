@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  14 JAN 2020 21:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  16 JAN 2020 15:29
 entering extended mode
 **./Resumen.tex
 (Resumen.tex
@@ -47,9 +47,9 @@ s.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanis
-h\spanish.ldf"
-Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-englis
+h\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babe
 l.def"
@@ -61,12 +61,9 @@ File: babel.def 2019/09/27 3.34 Babel common definitions
 abel.def")
 \bbl@dirlevel=\count89
 )
-\es@quottoks=\toks16
-\es@quotdepth=\count90
-Package babel Info: Making " an active character on input line 561.
-Package babel Info: Making . an active character on input line 662.
-Package babel Info: Making < an active character on input line 707.
-Package babel Info: Making > an active character on input line 707.
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
 ))
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsm
 ath.sty"
@@ -82,7 +79,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsg
 en.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
+\@emptytoks=\toks16
 \ex@=\dimen104
 ))
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsb
@@ -94,13 +91,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 pn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count91
+\inf@bad=\count90
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count92
-\leftroot@=\count93
+\uproot@=\count91
+\leftroot@=\count92
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count94
-\DOTSCASE@=\count95
+\classnum@=\count93
+\DOTSCASE@=\count94
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
@@ -109,26 +106,26 @@ LaTeX Info: Redefining \cdots on input line 610.
 \big@size=\dimen106
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count96
-\c@MaxMatrixCols=\count97
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
 \dotsspace@=\muskip10
-\c@parentequation=\count98
-\dspbrk@lvl=\count99
-\tag@help=\toks18
-\row@=\count100
-\column@=\count101
-\maxfields@=\count102
-\andhelp@=\toks19
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks17
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks18
 \eqnshift@=\dimen107
 \alignsep@=\dimen108
 \tagshift@=\dimen109
 \tagwidth@=\dimen110
 \totwidth@=\dimen111
 \lineht@=\dimen112
-\@envbody=\toks20
+\@envbody=\toks19
 \multlinegap=\skip44
 \multlinetaggap=\skip45
-\mathdisplay@stack=\toks21
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2855.
 LaTeX Info: Redefining \] on input line 2856.
 )
@@ -156,7 +153,7 @@ Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\key
 val.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks22
+\KV@toks@=\toks21
 )
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
 phics.sty"
@@ -382,10 +379,10 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-\c@mv@rm=\count103
-\c@mv@boldrm=\count104
-\c@mv@sf=\count105
-\c@mv@boldsf=\count106
+\c@mv@rm=\count102
+\c@mv@boldrm=\count103
+\c@mv@sf=\count104
+\c@mv@boldsf=\count105
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 354.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> OT1/jkp/m/n on input line 354.
@@ -682,7 +679,7 @@ LaTeX Info: Redefining \not on input line 1580.
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\apac
 ite.sty"
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count107
+\c@BibCnt=\count106
 \bibleftmargin=\skip46
 \bibindent=\skip47
 \bibparsep=\skip48
@@ -693,7 +690,7 @@ Package: apacite 2013/07/21 v6.03 APA citation
 tirow.sty"
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip51
-\multirow@cntb=\count108
+\multirow@cntb=\count107
 \multirow@dima=\skip52
 \bigstrutjot=\dimen115
 )
@@ -723,9 +720,9 @@ Package ifvtex Info: VTeX not detected.
 xetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count109
-\Gm@cntv=\count110
-\c@Gm@tempcnt=\count111
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
 \Gm@bindingoffset=\dimen120
 \Gm@wd@mp=\dimen121
 \Gm@odd@mp=\dimen122
@@ -734,13 +731,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen125
 \Gm@layouthoffset=\dimen126
 \Gm@layoutvoffset=\dimen127
-\Gm@dimlist=\toks23
+\Gm@dimlist=\toks22
 
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
-metry.cfg")) (Resumen.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
-)
+metry.cfg")) (Resumen.aux)
 \openout1 = `Resumen.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 21.
@@ -799,23 +793,20 @@ LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 2
 kp.fd"
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
 )
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
-
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\
 supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count112
+\scratchcounter=\count111
 \scratchdimen=\dimen128
 \scratchbox=\box29
-\nofMPsegments=\count113
-\nofMParguments=\count114
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count115
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count114
 \MPscratchDim=\dimen129
-\MPnumerator=\count116
-\makeMPintoPDFobject=\count117
-\everyMPtoPDFconversion=\toks25
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks24
 )
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\eps
 topdf-base.sty"
@@ -870,13 +861,13 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@maskedRefs=\count118
+\c@maskedRefs=\count117
 
-("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\span
+("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\engl
 ish.apc"
-File: spanish.apc 2013/07/21 v6.03 apacite language file
-LaTeX Info: Redefining \BPBI on input line 138.
-LaTeX Info: Redefining \BHBI on input line 139.
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -939,30 +930,56 @@ LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line
 ("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujkp
 syc.fd"
 File: ujkpsyc.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Trying to load font information for TS1+jkp on input line 2
+6.
+
+("C:\Users\Pablo Vivas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ts1j
+kp.fd"
+File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
 ) [1
 
-{C:/Users/Pablo Vivas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] (
-Resumen.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
-) ) 
+{C:/Users/Pablo Vivas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+[2] [3]
+<F1.png, id=18, 616.3025pt x 399.4925pt>
+File: F1.png Graphic file (type png)
+<use F1.png>
+Package pdftex.def Info: F1.png  used on input line 94.
+(pdftex.def)             Requested size: 308.1505pt x 199.74576pt.
+ [4 <./F1.png>] (Resumen.aux) ) 
 Here is how much of TeX's memory you used:
- 6257 strings out of 492452
- 84751 string characters out of 3117260
- 155037 words of memory out of 3000000
- 10486 multiletter control sequences out of 15000+200000
- 28893 words of font info for 66 fonts, out of 3000000 for 9000
+ 5945 strings out of 492452
+ 80768 string characters out of 3117260
+ 150761 words of memory out of 3000000
+ 10165 multiletter control sequences out of 15000+200000
+ 40144 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,6n,35p,435b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base
-/8r.enc}<C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/kpfonts/jkpbit8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Users/Pablo Vivas
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb>
-Output written on Resumen.pdf (2 pages, 51059 bytes).
+ 46i,7n,30p,1132b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Pablo Vivas/AppData/Local/Programs/MiK
+TeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{C:/Users/Pablo Vivas/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Pablo Vivas/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbit8a.pfb><C:/Us
+ers/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jk
+pbn8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/kpfonts/jkpmi.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmite.pfb><C:/Users/Pablo Vivas/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Us
+ers/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jk
+pmne.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/kpfonts/jkpsy.pfb>
+Output written on Resumen.pdf (4 pages, 145970 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
