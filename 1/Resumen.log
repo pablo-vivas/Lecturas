@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  16 JAN 2020 15:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.8)  17 JAN 2020 11:05
 entering extended mode
 **./Resumen.tex
 (Resumen.tex
@@ -950,12 +950,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--62
  []
 
 [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 91--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--98
+
+ []
+
 <F1.png, id=18, 616.3025pt x 399.4925pt>
 File: F1.png Graphic file (type png)
 <use F1.png>
-Package pdftex.def Info: F1.png  used on input line 94.
+Package pdftex.def Info: F1.png  used on input line 101.
 (pdftex.def)             Requested size: 308.1505pt x 199.74576pt.
- [4 <./F1.png>] (Resumen.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+[4 <./F1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+[5] (Resumen.aux) ) 
 Here is how much of TeX's memory you used:
  5945 strings out of 492452
  80768 string characters out of 3117260
@@ -963,23 +1017,24 @@ Here is how much of TeX's memory you used:
  10165 multiletter control sequences out of 15000+200000
  40144 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,7n,30p,1132b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Pablo Vivas/AppData/Local/Programs/MiK
-TeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{C:/Users/Pablo Vivas/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Pablo Vivas/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbit8a.pfb><C:/Us
-ers/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jk
-pbn8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/kpfonts/jkpmi.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Users/Pablo Vivas/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmite.pfb><C:/Users/Pablo Vivas/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Us
-ers/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jk
-pmne.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/kpfonts/jkpsy.pfb>
-Output written on Resumen.pdf (4 pages, 145970 bytes).
+ 46i,6n,30p,1132b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/font
+s/enc/dvips/kpfonts/kpfonts-expert.enc}{C:/Users/Pablo Vivas/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Pablo Vivas/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbit8a.pfb><C:/Users/Pablo Vi
+vas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C
+:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfont
+s/jkpex.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/kpfonts/jkpmi.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Users/Pablo Vivas/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmite.pfb><C:/Users/Pablo Viva
+s/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/
+Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/
+jkpmne.pfb><C:/Users/Pablo Vivas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/kpfonts/jkpsy.pfb>
+Output written on Resumen.pdf (5 pages, 160158 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

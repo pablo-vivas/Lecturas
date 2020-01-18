@@ -88,12 +88,39 @@ This approach reduces the problem of estimating f down to one of estimating a se
 \item \textit{Non-Parametric Models}: Non-parametric methods do not make explicit assumptions about the functional form of f. Instead they seek an estimate of f that gets as close to the data points as possible without being too rough or wiggly. Such approaches can have a major advantage over parametric approaches: by avoiding the assumption of a particular functional form for f, they have the potential to accurately fit a wider range of possible shapes for f. Any parametric approach brings with it the possibility that the functional form used to estimate f is very different from the true f, in which case the resulting model will not fit the data well. In contrast, non-parametric approaches completely avoid this danger, since essentially no assumption about the form of f is made. But non-parametric approaches do suffer from a major disadvantage: since they do not reduce the problem of estimating f to a small number of parameters, a very large number of observations (far more than is typically needed for a parametric approach) is required in order to obtain an accurate estimate for f.
 \end{itemize}
 \newpage
-\textit{Prediction Accuracy and Model Interpretability: The Trade-Off}
+\textit{Prediction Accuracy and Model Interpretability: The Trade-Off}\\
+\newline
+One might reasonably ask the following question: \textit{why would we ever choose to use a more restrictive method instead of a very flexible approach?} There are several reasons that we might prefer a more restrictive model. If we are mainly interested in \textbf{inference}, then restrictive models are much more interpretable. For instance, when inference is the goal, the linear model may be a good choice since it will be quite easy to understand the relationship between Y and $X_{1},X_{2},...,X_{p}$. In contrast, very flexible approaches can lead to such complicated estimates of f that it is difficult to understand how any individual predictor is associated with the response. \\
+\newline
+In some settings, however, we are only interested in \textbf{prediction}, and the interpretability of the predictive model is simply not of interest. For instance, if we seek to develop an algorithm to predict the price of a stock, our sole requirement for the algorithm is that it predict accurately— interpretability is not a concern. In this setting, we might expect that it will be best to use the most flexible model available. Surprisingly, this is not always the case! We will often obtain more accurate predictions using a less ﬂexible method. This phenomenon, which may seem counterintuitive at first glance, has to do with the potential for overfitting in highly flexible methods.\\
+\newline
+Figure 1 provides an illustration of the trade-off between ﬂexibility and interpretability for some methods.
+ 
 \begin{figure}[hbtp]
 \centering
 \includegraphics[scale=0.5]{F1.png}
 \caption{A representation of the tradeoﬀ between ﬂexibility and interpretability, using diﬀerent statistical learning methods}
 \end{figure}
+
+\textit{Supervised vs Unsupervised Learning}\\
+\newline
+
+\textit{Regression vs Classification}\\
+\newline
+
+\textit{Quality of fit}\\
+\newline
+
+\begin{center}
+\boxed{MSE = \frac{1}{n}\sum_{i=1}^{n}(y_{i}-\hat{f}(x_{i}))^{2}}
+\end{center}
+
+\textit{Bias vs Variance}\\
+\newline
+
+\begin{center}
+\boxed{E\left[ y_{0}-\hat{f}(x_{0})\right] ^{2}=Var(\hat{f}(x_{0}))+[Bias(\hat{f}(x_{0}))]^{2}+Var(\epsilon)}
+\end{center}
 
 \section{Linear Regression}
 \section{Classification}
